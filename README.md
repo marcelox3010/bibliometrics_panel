@@ -1,1 +1,1 @@
-# bibliometrics_panel
+# bibliometrics panel
